@@ -10,6 +10,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/data-local" />
+            <option value="$PROJECT_DIR$/data-remote" />
+            <option value="$PROJECT_DIR$/datasource" />
+            <option value="$PROJECT_DIR$/e" />
+            <option value="$PROJECT_DIR$/usecase" />
           </set>
         </option>
       </GradleProjectSettings>

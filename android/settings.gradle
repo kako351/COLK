@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "COLK"
 include ':app'
+include ':datasource'
+include ':data-remote'
+include ':data-local'
+include ':usecase'
